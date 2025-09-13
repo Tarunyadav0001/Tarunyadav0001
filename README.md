@@ -44,7 +44,7 @@ I'm a passionate **Software Developer** who enjoys crafting reliable, scalable, 
 
 - [Tour-Project](https://github.com/Tarunyadav0001/Tour-Project)  
 - [My Portfolio Website](https://github.com/Tarunyadav0001/Tarunyadav0001.github.io)  
-- [K- Mean Clustering]([https://github.com/Tarunyadav0001/web-code](https://github.com/Tarunyadav0001/K-MeansClustering.git))
+- [K- Mean Clustering](https://github.com/Tarunyadav0001/K-MeansClustering.git)
 
 ---
 
